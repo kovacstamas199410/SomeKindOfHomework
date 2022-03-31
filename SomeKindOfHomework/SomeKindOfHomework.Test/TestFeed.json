@@ -1,0 +1,522 @@
+[
+  [
+    {
+      "Longitude": 0,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 0,
+      "Latitude": 9,
+      "Type": 0
+    }
+  ],
+  [
+    {
+      "Longitude": 1,
+      "Latitude": 0,
+      "Type": 0
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 4,
+      "Type": 0
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 1,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 2,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 2,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 3,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 3,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 4,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 1,
+      "Type": 0
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 7,
+      "Type": 0
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 4,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 5,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 5,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 6,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 4,
+      "Type": 0
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 6,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 7,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 2,
+      "Type": 0
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 7,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 8,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 8,
+      "Type": 0
+    },
+    {
+      "Longitude": 8,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ],
+  [
+    {
+      "Longitude": 9,
+      "Latitude": 0,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 1,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 2,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 3,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 4,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 5,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 6,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 7,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 8,
+      "Type": 1
+    },
+    {
+      "Longitude": 9,
+      "Latitude": 9,
+      "Type": 1
+    }
+  ]
+]

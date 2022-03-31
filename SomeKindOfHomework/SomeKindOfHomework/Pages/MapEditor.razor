@@ -1,0 +1,80 @@
+﻿@page "/MapEditor"
+@inject IAreaCalculationService areacalculationService
+
+<h3>MapEditor</h3>
+
+ <div>
+    <div>
+        <div class="form-group">
+            <label for="inputX">Longitude:</label>
+            <input id="inputX" type="number" @bind="_inputLongitude" />
+        </div>
+
+        <div class="form-group">
+            <label for="inputY">Latitude:</label>
+            <input id="inputY" type="number" @bind="_inputLatitude" />
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-success" @onclick="GenerateMap">Generate</button>
+        </div>
+   </div>
+    
+    
+   <div>
+    <table>
+        @if (_matrix != default)
+        {
+            @for (var latitude = 0; latitude < _matrix.GetLength(1); latitude++)
+            {
+                <tr class="input-row">
+                    @for (var longitude = 0; longitude < _matrix.GetLength(0); longitude++)
+                    {
+                        <td class="input-cell">
+                            <TileComponent Tile=@_matrix[longitude, latitude]></TileComponent>
+                        </td>
+                    }
+                </tr>
+            }
+        }        
+    </table>
+    </div>
+
+    <div>
+        <button class="btn btn-primary" @onclick="UpdateMap">Calculate area</button>
+    </div>
+</div>
+
+@code {
+    int _inputLongitude;
+    int _inputLatitude;
+
+    TileViewModel[,] _matrix;
+
+    public MapEditor() => _matrix = new TileViewModel[0, 0];
+
+    private void GenerateMap()
+    {
+        var tempMatrix = new TileViewModel[_inputLongitude, _inputLatitude];
+
+        for (var longitude = 0; longitude < _inputLongitude; longitude++)
+        {
+            for (var latitude = 0; latitude < _inputLatitude; latitude++)
+            {
+                tempMatrix[longitude, latitude] = new TileViewModel(longitude, latitude);
+            }            
+        }
+
+        _matrix = tempMatrix;
+    }
+
+    private void UpdateMap()
+    {
+        if (_matrix == default)
+        {
+            return;
+        }
+
+        areacalculationService.MarkArea(_matrix);
+    }
+}

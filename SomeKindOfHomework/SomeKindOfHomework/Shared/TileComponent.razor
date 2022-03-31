@@ -1,0 +1,19 @@
+﻿<button class="btn btn-input @GenerateStyleClass()" @onclick="Tile.SwitchType"></button>
+
+@code {
+    [Parameter]
+    public TileViewModel Tile { get; set; }
+
+    string GenerateStyleClass()
+    {
+        switch (Tile.Type)
+        {
+            case TileType.Grass: return "btn-grass";
+            case TileType.Marked: return "btn-marked";
+            case TileType.Tree: return "btn-tree";
+
+            default:
+                throw new NotImplementedException();
+        }
+    }
+}
